@@ -1,0 +1,2 @@
+# InsertBOMCSharp
+Insere BOM .exe
