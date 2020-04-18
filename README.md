@@ -1,2 +1,2 @@
-# InsertBOMCSharp
-Insere BOM .exe
+# Insert BOM
+Insere BOM .exe para SolidWorks
